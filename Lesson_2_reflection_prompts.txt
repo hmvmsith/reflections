@@ -14,9 +14,11 @@ when using a clone to create a modified version of your program.  For example, a
 
 
 How do the diagrams help you visualize the branch structure?
+when a repository has many heads and branches, being able to diagram the branches helps you see which commits are included in a branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+All of the changes in both branches are merged and a new branch tip is created.  It's complicated.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
