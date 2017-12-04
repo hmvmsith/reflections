@@ -1,7 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-
+GIT creates a staging and working area, plus a bunch of other control files in the directory
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+The staging area is a place where files can be added prior to creating a commit. 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
