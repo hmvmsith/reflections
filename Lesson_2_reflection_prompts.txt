@@ -22,3 +22,5 @@ All of the changes in both branches are merged and a new branch tip is created. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+did we go over automatic merging?  Does this mean identifying and resolving conflicts?
+
