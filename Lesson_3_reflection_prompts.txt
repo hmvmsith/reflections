@@ -17,14 +17,14 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+  Allows you to work offline with the most current changes.  When you are able to be back online you can merge your updates with any updates performed by others. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+  I'm not a developerso I don't have a lot of experience with this.  Without GitHub you would need to work a lot closer, and check with others before making any changes.  More than one person would not be able to work simultaneously. 
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I wanted to create a new project starting with a base from master.  Also, if I were working on updates or enhancements to a separate part of the initial project.  
